@@ -7,6 +7,11 @@ This Excel-based budget tracker project helps individuals manage their finances 
 📂 Features
 
 ✅ Income, Expense and Net savings Tracking – Record salary, tax, medical insurance, and other costs.
+![image](https://github.com/user-attachments/assets/76cfe624-e2d8-4175-9bf4-c8669c9115a6) 
+![image](https://github.com/user-attachments/assets/ba95a4a7-670e-4385-b992-0418b0e05bc8)
+![image](https://github.com/user-attachments/assets/35eb4bdf-57aa-4c6e-bd31-b4d9021dbedf)
+
+
 
 🎯 Purpose
 
